@@ -1,0 +1,50 @@
+* {
+    font-size: 15px;
+    font-family: Outfit, sans-serif;
+}
+
+.background {
+    background-color: #bbd5ec;
+
+}
+
+.card-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.white {
+    padding: 9px;
+    background-color: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 4px 2px -2px gray;
+}
+
+.qr {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 220px;
+    padding: 0;
+    border-radius: 7px;
+}
+
+.heading {
+    width: 205px;
+    text-align: center;
+    padding: 8px;
+    font-weight: 700;
+}
+
+.description {
+    width: 205px;
+    text-align: center;
+    padding: 8px;
+
+}
